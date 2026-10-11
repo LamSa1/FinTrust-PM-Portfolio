@@ -33,8 +33,11 @@ dependency monitoring, decision log, status report.
 
 📁 [Week 2 submission](./Week2/)
 
-### Week 3 — Develop & Integrate
-*(Coming soon)*
+### Week 3 — Develop and Integrate
+Integration readiness assessment with four-level evidence hierarchy, 
+updated risk register, and Week 4 readiness plan.
+
+📁 [Week 3 submission](./Week3/)
 
 ### Week 4 — Test, Refine and Present
 Final governance review, risk closure, lessons learned, and individual 

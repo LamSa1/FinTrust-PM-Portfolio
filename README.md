@@ -36,8 +36,11 @@ dependency monitoring, decision log, status report.
 ### Week 3 — Develop & Integrate
 *(Coming soon)*
 
-### Week 4 — Test, Refine & Present
-*(Coming soon)*
+### Week 4 — Test, Refine and Present
+Final governance review, risk closure, lessons learned, and individual 
+recorded presentation.
+
+📁 [Week 4 submission](./Week4/)
 
 ---
 
